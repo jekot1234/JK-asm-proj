@@ -1,0 +1,3 @@
+LIBRARY "SobelFilterASM"
+EXPORTS
+fnSobelFilter
